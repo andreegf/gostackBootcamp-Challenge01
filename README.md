@@ -5,6 +5,9 @@ This Challenge is the first of @Rocketseat Gostack Bootcamp. The challenge is ab
 
 You can check the Challenge Repo [here](https://github.com/Rocketseat/bootcamp-gostack-desafio-01)
 
+## Version
+This repo is currently on version **1.0**
+
 ## Techs Used
 
 * [Node.JS](https://nodejs.org/en/);
