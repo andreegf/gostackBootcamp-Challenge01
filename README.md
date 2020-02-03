@@ -26,9 +26,10 @@ About what I did:
 
 ## How to Run it?
 1. Clone this repo
-
+2. Run ```npm install``` or ```yarn install``` to download the dependencies
 3. Setup your DB connection changing the .env-example to .env and adding your own connection URL
 4. Run ```npm run dev``` or ```yarn dev``` to start a development server on PORT 3000
+
 
 ## Middlewares
 This project run two middlewares:
