@@ -16,7 +16,8 @@ This repo is currently on version **1.0**
 
 ## How to Run it?
 1. Clone this repo 
-2. Run ```npm run dev``` or ```yarn dev``` to start a development server on PORT 3000
+2. Run ```npm install``` or ```yarn install``` to download the dependencies
+3. Run ```npm run dev``` or ```yarn dev``` to start a development server on PORT 3000
 
 ## Middlewares
 This project run two middlewares:
