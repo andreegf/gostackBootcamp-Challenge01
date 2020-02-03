@@ -6,17 +6,29 @@ This Challenge is the first of @Rocketseat Gostack Bootcamp. The challenge is ab
 You can check the Challenge Repo [here](https://github.com/Rocketseat/bootcamp-gostack-desafio-01)
 
 ## Version
-This repo is currently on version **1.0**
+This repo is currently on version **2.0**
+
+On this version I added a few tweaks to the original one, to level up the challenge and to make it a little more like a real use-case.
+About what I did:
+
+* Added a NoSql DB;
+* Organized the project into models,controllers,routes and middlewares;
+* Secured sensitive information into .env file
 
 ## Techs Used
 
 * [Node.JS](https://nodejs.org/en/);
 * [Express](https://expressjs.com);
-* [Nodemon](https://nodemon.io/).
+* [Nodemon](https://nodemon.io/);
+* [MongoDB](https://www.mongodb.com/);
+* [Mongoose](https://mongoosejs.com/).
+
 
 ## How to Run it?
-1. Clone this repo 
-2. Run ```npm run dev``` or ```yarn dev``` to start a development server on PORT 3000
+1. Clone this repo
+
+3. Setup your DB connection changing the .env-example to .env and adding your own connection URL
+4. Run ```npm run dev``` or ```yarn dev``` to start a development server on PORT 3000
 
 ## Middlewares
 This project run two middlewares:
